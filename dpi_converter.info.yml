@@ -1,0 +1,5 @@
+name: 'DPI Converter'
+type: module
+description: 'Provides a service/helper to convert the dpi of an image (jpg). Requires IMAGICK PHP extension.'
+core: 8.x
+package: 'Media'

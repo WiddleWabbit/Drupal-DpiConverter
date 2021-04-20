@@ -1,0 +1,4 @@
+services:
+  dpi_converter.helper:
+    class: Drupal\dpi_converter\DpiConverterHelper
+    arguments: ['@logger.factory']
